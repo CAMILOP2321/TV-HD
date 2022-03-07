@@ -63,7 +63,7 @@ http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30581
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/271769
 #EXTINF:0 type="stream" channelId="-1", group="Latino",WARNER CHANEL
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30574
-#EXTINF:0 type="stream" channelId="-1", group="Latino",TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="LATINO",TNT
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30668
 
 
