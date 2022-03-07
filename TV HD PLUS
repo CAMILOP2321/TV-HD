@@ -55,9 +55,9 @@ http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/30587
 http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/30584
 #EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 
 http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/30583
-#EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 2
+#EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 2 HD
 http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/30582
-#EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 3
+#EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 3 HD
 http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/30581
 #EXTINF:0 type="stream" name="ESPNPUERTO RICO CDM" group-title="EVANGELIO",ESPNPUERTO RICO CDM
 http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/271769
@@ -69,7 +69,7 @@ http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/30668
 http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/30621
 #EXTINF:0 type="stream" name="BBC" group-title="NEWS",BBC
 http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/17305
-#EXTINF:0 type="stream" name="AL KASS 1" group-title="DEPORTES"AL KASS 1
+#EXTINF:0 type="stream" name="AL KASS 1" group-title="DEPORTES",AL KASS 1
 http://tptv.cz:80/CA7DF4D60F13235/5ouhTSlZjd/57102
 
 
