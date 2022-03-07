@@ -29,35 +29,43 @@ http://hdhd.tk:80/772299/772299/22492
 http://hdhd.tk:80/772299/772299/21884
 #EXTINF:0 type="stream" channelId="-1" name="US HBO" group="USA Movies" logo="https://static.epg.best/us/HBO.us.png", US HBO
 http://hdhd.tk:80/772299/772299/356
-#EXTINF:0 type="stream" channelId="-1", WIN SPORT+
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/139331
+#EXTINF:0 type="stream" channelId="-1",group="DEPORTES" WIN SPORT+
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/139331
+#EXTINF:0 type="stream" channelId="-1",group="DEPORTES" WIN SPORT+
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30647
 #EXTINF:0 type="stream" channelId="-1" name="CA Bein Sports HD (R)" group="Canada Sports" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 1
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/149622
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149622
 #EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 2
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/149623
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149623
 #EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 3
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/149624
-#EXTINF:0 type="stream" channelId="-1", DIRECT TV SPORTS
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30743
-#EXTINF:0 type="stream" channelId="-1", DIRECT TV SPORT 2
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30742
-#EXTINF:0 type="stream" channelId="-1", DIRECT TV PLUS
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30741
-#EXTINF:0 type="stream" channelId="-1", Win sport+ alterno 2
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/190260
-#EXTINF:0 type="stream" channelId="-1", UNIVERSAL CRIME
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30589
-#EXTINF:0 type="stream" channelId="-1", UNIVERSAL COMEDY
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30587
-#EXTINF:0 type="stream" channelId="-1", UNIVERSAL PREMIER
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30584
-#EXTINF:0 type="stream" channelId="-1", ESPN 
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30583
-#EXTINF:0 type="stream" channelId="-1", ESPN 2
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30582
-#EXTINF:0 type="stream" channelId="-1", ESPN 3
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/30581
-#EXTINF:0 type="stream" channelId="-1", PUERTO RICO CDM
-http://tptv.cz:80/CA7DF4D60F13235/I6EzryosNN/271769
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149624
+#EXTINF:0 type="stream" channelId="-1", group="DEPORTES", DIRECT TV SPORTS
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30743
+#EXTINF:0 type="stream" channelId="-1", group="DEPORTES", DIRECT TV SPORT 2
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30742
+#EXTINF:0 type="stream" channelId="-1", group="DEPORTES", DIRECT TV PLUS
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30741
+#EXTINF:0 type="stream" channelId="-1", group="DEPORTES",Win sport+ alterno 2
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/190260
+#EXTINF:0 type="stream" channelId="-1", group="Latino", UNIVERSAL CRIME
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30589
+#EXTINF:0 type="stream" channelId="-1", group="Latino",UNIVERSAL COMEDY
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30587
+#EXTINF:0 type="stream" channelId="-1",group="Latino", UNIVERSAL PREMIER
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30584
+#EXTINF:0 type="stream" channelId="-1",group="DEPORTES", ESPN 
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30583
+#EXTINF:0 type="stream" channelId="-1",group="DEPORTES", ESPN 2
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30582
+#EXTINF:0 type="stream" channelId="-1",group="DEPORTES", ESPN 3
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30581
+#EXTINF:0 type="stream" channelId="-1", group="EVANGELIO",PUERTO RICO CDM
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/271769
+#EXTINF:0 type="stream" channelId="-1", group="Latino",WARNER CHANEL
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30574
+#EXTINF:0 type="stream" channelId="-1", group="Latino",TNT
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30668
+
+
 
 
