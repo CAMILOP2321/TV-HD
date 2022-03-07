@@ -65,6 +65,16 @@ http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/271769
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30574
 #EXTINF:0 type="stream" name="TNT" group-title="LATINO",TNT
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30668
+#EXTINF:0 type="stream" name="PARAMOUNT" group-title="LATINO",PARAMOUNT
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30621
+#EXTINF:0 type="stream" name="BBC" group-title="NEWS",BBC
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/17305
+#EXTINF:0 type="stream" name="AL KASS 1" group-title="DEPORTES"AL KASS 1
+http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/57102
+
+
+
+
 
 
 
