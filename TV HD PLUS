@@ -29,44 +29,42 @@ http://hdhd.tk:80/772299/772299/22492
 http://hdhd.tk:80/772299/772299/21884
 #EXTINF:0 type="stream" channelId="-1" name="US HBO" group-title="USA Movies" logo="https://static.epg.best/us/HBO.us.png", US HBO
 http://hdhd.tk:80/772299/772299/356
-#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES" WIN SPORT+
+#EXTINF:0 type="stream" name="WIN SPORTS +" group-title="DEPORTES", WIN SPORTS +
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/139331
-#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES" WIN SPORT+
+#EXTINF:0 type="stream" name="WIN SPORTS +" group-title="DEPORTES", WIN SPORTS + ALTERNO
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30647
-#EXTINF:0 type="stream" channelId="-1" name="CA Bein Sports HD (R)" group-title="Canada Sports" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 1
+#EXTINF:0 type="stream" name="WIN SPORTS +" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", group-title="DEPORTES", WIN SPORTS + BEIN SPORTS 1  
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149622
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 2
+#EXTINF:0 type="stream" name="WIN SPORTS +" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", group-title="DEPORTES", WIN SPORTS + BEIN SPORTS 2 
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149623
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 3
+#EXTINF:0 type="stream" name="WIN SPORTS +" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", group-title="DEPORTES", WIN SPORTS + BEIN SPORTS 3
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149624
-#EXTINF:0 type="stream" channelId="-1", group-title="DEPORTES", DIRECT TV SPORTS
+#EXTINF:0 type="stream" name="DIRECT TV" group-title="DEPORTES", DIRECT TV SPORT 
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30743
-#EXTINF:0 type="stream" channelId="-1", group-title="DEPORTES", DIRECT TV SPORT 2
+#EXTINF:0 type="stream" name="DIRECT TV" group-title="DEPORTES", DIRECT TV  SPORT 2
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30742
 #EXTINF:0 type="stream" channelId="-1", group-title="DEPORTES", DIRECT TV PLUS
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30741
-#EXTINF:0 type="stream" channelId="-1", group-title="DEPORTES",Win sport+ alterno 2
+#EXTINF:0 type="stream" name="WIN SPORTS +" group-title="DEPORTES", WIN SPORTS + ALTERNO 2
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/190260
-#EXTINF:0 type="stream" channelId="-1", group-title="Latino", UNIVERSAL CRIME
+#EXTINF:0 type="stream" name="UNIVERSAL CRIME" group-title="LATINO",UNIVERSAL CRIME
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30589
-#EXTINF:0 type="stream" channelId="-1", group-title="Latino",UNIVERSAL COMEDY
+#EXTINF:0 type="stream" name="UNIVERSAL COMEDY" group-title="LATINO", UNIVERSAL COMEDY
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30587
-#EXTINF:0 type="stream" channelId="-1",group-title="Latino", UNIVERSAL PREMIER
+#EXTINF:0 type="stream" name="UNIVERSAL PREMIER" group-title="LATINO", UNIVERSAL PREMIER
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30584
-#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES", ESPN 
+#EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30583
-#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES", ESPN 2
+#EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 2
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30582
-#EXTINF:0 type="stream" name="ESPN 3" group-title="DEPORTES", ESPN 3
+#EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 3
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30581
-#EXTINF:0 type="stream" channelId="-1", group-title="EVANGELIO",PUERTO RICO CDM
+#EXTINF:0 type="stream" name="ESPNPUERTO RICO CDM" group-title="EVANGELIO",ESPNPUERTO RICO CDM
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/271769
-#EXTINF:0 type="stream" channelId="-1", group-title="Latino",WARNER CHANEL
+#EXTINF:0 type="stream" name="WARNER CHANNEL" group-title="LATINO", WARNER CHANNEL
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30574
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="LATINO",TNT
+#EXTINF:0 type="stream" name="TNT" group-title="LATINO",TNT
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30668
-
-
 
 
 
