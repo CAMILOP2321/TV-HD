@@ -1,70 +1,74 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="4773" name="Latin CO Caracol FHD" group="Colombia" tvg-country="Co", Caracol
+#EXTINF:0 type="stream" channelId="4773" name="Latin CO Caracol FHD" group-title="Colombia" tvg-country="Co", Caracol
 http://hdhd.tk:80/772299/772299/5942
-#EXTINF:0 type="stream" channelId="3783" name="Latin CO RCN" group="Colombia" tvg-country="Co", RCN
+#EXTINF:0 type="stream" channelId="3783" name="Latin CO RCN" group-title="Colombia" tvg-country="Co", RCN
 http://hdhd.tk:80/772299/772299/5950
-#EXTINF:0 type="stream" channelId="1052" name="Latino: TNT HD" group="Latino 1" tvg-country="Co", TNT
+#EXTINF:0 type="stream" channelId="1052" name="Latino: TNT HD" group-title="Latino 1" tvg-country="Co", TNT
 http://hdhd.tk:80/772299/772299/24309
-#EXTINF:0 type="stream" channelId="1719" name="Latino: Paramount HD" group="Latino 1" tvg-country="Co", Paramount
+#EXTINF:0 type="stream" channelId="1719" name="Latino: Paramount HD" group-title="Latino 1" tvg-country="Co", Paramount
 http://hdhd.tk:80/772299/772299/24322
-#EXTINF:0 type="stream" channelId="50" name="Latino: Animal Planet HD" group="Latino 1" tvg-country="Co", Animal Planet
+#EXTINF:0 type="stream" channelId="50" name="Latino: Animal Planet HD" group-title="Latino 1" tvg-country="Co", Animal Planet
 http://hdhd.tk:80/772299/772299/24245
 #EXTINF:0 type="stream" channelId="-1", Bein sport 1
 http://tptv.cz:80/CA7DF4D60F13235/XpV3PmhN7p/149624
-#EXTINF:0 type="stream" channelId="1330" name="Latino: HBO HD" group="Latino 1", HBO HD
+#EXTINF:0 type="stream" channelId="1330" name="Latino: HBO HD" group-title="Latino 1", HBO HD
 http://hdhd.tk:80/772299/772299/24338
-#EXTINF:0 type="stream" channelId="935" name="Latino: HBO2 HD" group="Latino 1", HBO2 HD
+#EXTINF:0 type="stream" channelId="935" name="Latino: HBO2 HD" group-title="Latino 1", HBO2 HD
 http://hdhd.tk:80/772299/772299/24339
-#EXTINF:0 type="stream" channelId="2584" name="Latino: HBO Family HD" group="Latino 1", HBO Family HD
+#EXTINF:0 type="stream" channelId="2584" name="Latino: HBO Family HD" group-title="Latino 1", HBO Family HD
 http://hdhd.tk:80/772299/772299/24340
-#EXTINF:0 type="stream" channelId="2585" name="Latino: HBO Plus HD" group="Latino 1", HBO Plus HD
+#EXTINF:0 type="stream" channelId="2585" name="Latino: HBO Plus HD" group-title="Latino 1", HBO Plus HD
 http://hdhd.tk:80/772299/772299/24341
-#EXTINF:0 type="stream" channelId="-1" name="UK: Sky Sport Premier League FHD" group="UK Sports", UK: Sky Sport Premier League FHD
+#EXTINF:0 type="stream" channelId="-1" name="UK: Sky Sport Premier League FHD" group-title="UK Sports", UK: Sky Sport Premier League FHD
 http://hdhd.tk:80/772299/772299/26346
-#EXTINF:0 type="stream" channelId="-1" name="ES beIN LA Liga FHD  (P)" group="Spain", ES beIN LA Liga FHD  (P)
+#EXTINF:0 type="stream" channelId="-1" name="ES beIN LA Liga FHD  (P)" group-title="Spain", ES beIN LA Liga FHD  (P)
 http://hdhd.tk:80/772299/772299/22487
-#EXTINF:0 type="stream" channelId="-1" name="ES beINSport LaLiga HD  (P)" group="Spain", ES beINSport LaLiga HD  (P)
+#EXTINF:0 type="stream" channelId="-1" name="ES beINSport LaLiga HD  (P)" group-title="Spain", ES beINSport LaLiga HD  (P)
 http://hdhd.tk:80/772299/772299/22492
-#EXTINF:0 type="stream" channelId="-1" name="USA: FOX 7 Miami (WSVN)" group="USA FOX (Local)" tvg-country="us", FOX 7 Miami (WSVN)
+#EXTINF:0 type="stream" channelId="-1" name="USA: FOX 7 Miami (WSVN)" group-title="USA FOX (Local)" tvg-country="us", FOX 7 Miami (WSVN)
 http://hdhd.tk:80/772299/772299/21884
-#EXTINF:0 type="stream" channelId="-1" name="US HBO" group="USA Movies" logo="https://static.epg.best/us/HBO.us.png", US HBO
+#EXTINF:0 type="stream" channelId="-1" name="US HBO" group-title="USA Movies" logo="https://static.epg.best/us/HBO.us.png", US HBO
 http://hdhd.tk:80/772299/772299/356
-#EXTINF:0 type="stream" channelId="-1",group="DEPORTES" WIN SPORT+
+#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES" WIN SPORT+
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/139331
-#EXTINF:0 type="stream" channelId="-1",group="DEPORTES" WIN SPORT+
+#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES" WIN SPORT+
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30647
-#EXTINF:0 type="stream" channelId="-1" name="CA Bein Sports HD (R)" group="Canada Sports" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 1
+#EXTINF:0 type="stream" channelId="-1" name="CA Bein Sports HD (R)" group-title="Canada Sports" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 1
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149622
 #EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 2
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149623
 #EXTINF:0 type="stream" channelId="-1" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png", CA Bein Sports HD 3
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/149624
-#EXTINF:0 type="stream" channelId="-1", group="DEPORTES", DIRECT TV SPORTS
+#EXTINF:0 type="stream" channelId="-1", group-title="DEPORTES", DIRECT TV SPORTS
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30743
-#EXTINF:0 type="stream" channelId="-1", group="DEPORTES", DIRECT TV SPORT 2
+#EXTINF:0 type="stream" channelId="-1", group-title="DEPORTES", DIRECT TV SPORT 2
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30742
-#EXTINF:0 type="stream" channelId="-1", group="DEPORTES", DIRECT TV PLUS
+#EXTINF:0 type="stream" channelId="-1", group-title="DEPORTES", DIRECT TV PLUS
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30741
-#EXTINF:0 type="stream" channelId="-1", group="DEPORTES",Win sport+ alterno 2
+#EXTINF:0 type="stream" channelId="-1", group-title="DEPORTES",Win sport+ alterno 2
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/190260
-#EXTINF:0 type="stream" channelId="-1", group="Latino", UNIVERSAL CRIME
+#EXTINF:0 type="stream" channelId="-1", group-title="Latino", UNIVERSAL CRIME
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30589
-#EXTINF:0 type="stream" channelId="-1", group="Latino",UNIVERSAL COMEDY
+#EXTINF:0 type="stream" channelId="-1", group-title="Latino",UNIVERSAL COMEDY
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30587
-#EXTINF:0 type="stream" channelId="-1",group="Latino", UNIVERSAL PREMIER
+#EXTINF:0 type="stream" channelId="-1",group-title="Latino", UNIVERSAL PREMIER
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30584
-#EXTINF:0 type="stream" channelId="-1",group="DEPORTES", ESPN 
+#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES", ESPN 
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30583
-#EXTINF:0 type="stream" channelId="-1",group="DEPORTES", ESPN 2
+#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES", ESPN 2
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30582
-#EXTINF:0 type="stream" channelId="-1",group="DEPORTES", ESPN 3
+#EXTINF:0 type="stream" channelId="-1",group-title="DEPORTES", ESPN 3
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30581
-#EXTINF:0 type="stream" channelId="-1", group="EVANGELIO",PUERTO RICO CDM
+#EXTINF:0 type="stream" channelId="-1", group-title="EVANGELIO",PUERTO RICO CDM
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/271769
-#EXTINF:0 type="stream" channelId="-1", group="Latino",WARNER CHANEL
+#EXTINF:0 type="stream" channelId="-1", group-title="Latino",WARNER CHANEL
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30574
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="LATINO",TNT
 http://tptv.cz:80/CA7DF4D60F13235/qksk3UL19A/30668
+
+
+
+
 
 
 
